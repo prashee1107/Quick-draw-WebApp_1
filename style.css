@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(145, 187, 219);
+}
+#score{
+    font-family: 'Spectral', serif;
+    font-size: 40px;
+ margin-left: 30px;
+}
+#timer{
+    font-family: 'Spectral', serif;
+    font-size: 40px;
+ float: right;
+margin-right: 30px;
+}
+#sketch_to_be_drawn{
+    font-size: 30px;
+    color: rgb(253, 0, 0);
+}
+#heading{
+    font-family: 'Yeseva One', cursive;
+    font-size: 45px;
+    background-color: antiquewhite;
+}
+button{
+    font-family: 'Spectral', serif;
+    float: right;
+margin-right: 40px;
+margin-top: 10px;
+}
+#guessed_sketch,#sketch_confidence{
+    font-family: 'Spectral', serif;
+    font-size: 25px;
+}
